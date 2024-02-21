@@ -1,5 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdydXcwZXN5aXhzaXU3aHFocWxtZWZzZTBndWUwczI2dWN0MzU1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)](https://rishavchanda.io)
-
+<!--[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdydXcwZXN5aXhzaXU3aHFocWxtZWZzZTBndWUwczI2dWN0MzU1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)](https://rishavchanda.io)-->
 
 <h1 align="center">Hi 👋, I'm Abhay Pratap</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
